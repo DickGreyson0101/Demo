@@ -1,3 +1,2 @@
 "# Demo" 
-"Phan Thi Linh"
-"Vo Thanh Do"
+ huhuhu T.T
